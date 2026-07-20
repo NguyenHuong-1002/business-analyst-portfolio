@@ -1,24 +1,40 @@
-# Revenue Analysis and Sales Forecasting System
+# 📊 Revenue Analysis and Sales Forecasting System
 
-## Overview
+## 📌 Project Overview
 
-A web-based system developed to analyze revenue, forecast sales trends, and support business decision-making.
+A business analysis project for a web-based system that analyzes revenue data and forecasts future sales trends to support business decision-making.
 
-## My Role
+---
+
+## 👩‍💼 My Role
 
 **Business Analyst**
 
-## Responsibilities
+---
 
-- Conducted requirement elicitation and requirement analysis.
-- Identified business processes and translated business needs into system requirements.
+## 🎯 Responsibilities
+
+- Conducted requirement elicitation and analyzed business requirements.
+- Modeled business processes and system workflows.
 - Developed Use Case Specifications and UML diagrams.
-- Designed database structure and business rules.
-- Collaborated with developers throughout the system analysis and design process.
+- Designed database models and business rules.
+- Collaborated with developers to ensure the proposed solution aligned with business requirements.
 
-## Deliverables
+---
 
-- Requirement Analysis
+## 🛠 Tools
+
+- StarUML
+- Draw.io
+- MySQL
+- Microsoft Office
+
+---
+
+## 📑 Deliverables
+
+- Business Requirement Analysis
+- Functional Requirements
 - Use Case Diagram
 - Activity Diagram
 - Sequence Diagram
