@@ -3,7 +3,7 @@ Business Analyst Academic Projects and Portfolio
 ## 🗺️ 4. Sơ Đồ Chức Năng (Use Case Diagram)
 
 ### Sơ đồ tổng quan hệ thống
-![Sơ đồ tổng quan](images/Usecase%20tổng%20quát.png)
+![Sơ đồ tổng quan](images/Usecase tổng quát.png)
 
 ### Chức năng Dự đoán & Thống kê
 ![Sơ đồ dự đoán](images/Use-case%20chức%20năng%20Dự%20Đoán%20.png)
